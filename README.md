@@ -20,7 +20,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [link1]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
 # VO
 
-##
+
 
 ## Documentació integració: Àmbit Administració General de l&#39;Estat (AGE)
 
@@ -32,7 +32,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | |
 
 
-##
+
 
 ## Documentació integració: Administració de la Generalitat de Catalunya
 
@@ -42,14 +42,14 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Departament Benestar Social i família** | Títol de família nombrosa CCAA | Consulta de títol de família nombrosa CCAA | [Document homologació TFN CCAA][link4] |
 | **Departament Benestar Social i família** | Títol de família monoparental | Comprovació vigència de títol, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFM][link4] |
 
-##
+
 ## Documentació integració: Àmbit de l&#39;Administració local
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
 | --- | --- | --- | --- |
 | **Ajuntaments o Diputacions i Consells Comarcals** | Padró municipal d&#39;habitants | Comprovació de residència d&#39;un individu a Catalunya (consulta individual/lots), Municipi de residència d&#39;un individu (consulta individual/lots), Comprovació de residència d&#39;un individu a un determinat municipi (consulta individual/lots), Nombre de convivents, Comprovació del nombre de convivents, Dades del titular (consulta individual/lots), Dades dels convivents, Dades del titular (suport IDESCAT), Cerca d&#39;un titular | [Document homologació Padró][link4] |
 
-##
+
 ## Documentació integració: Àmbit de Col·legis i Entitats Col·laboradores
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
