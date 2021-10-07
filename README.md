@@ -5,20 +5,19 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [Document homologació eNOTUM][link1]
 
-[link1]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_NT-v5.0.docx
+[link1]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_NT-v5.0.docx?raw=true
 
 # PSCP
 
 [Document homologació PSCP][link1]
 
-[link1]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_PSCP_v2.docx
+[link1]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_PSCP_v2.docx?raw=true
 
 # OVER
 
 [Document homologació OVER][link1]
 
-[link1]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx
-
+[link1]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
 # VO
 
 ##
@@ -61,8 +60,8 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 
 
-[link2]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx
+[link2]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
 
-[link3]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx
+[link3]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
 
-[link4]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx
+[link4]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
