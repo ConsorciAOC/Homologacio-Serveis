@@ -21,6 +21,8 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 # VO
 
+##
+
 ## Documentació integració: Àmbit Administració General de l&#39;Estat (AGE)
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació d&#39;integració** |
@@ -33,7 +35,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 ##
 
-# Documentació integració: Administració de la Generalitat de Catalunya
+## Documentació integració: Administració de la Generalitat de Catalunya
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació d&#39;integració** |
 | --- | --- | --- | --- |
@@ -42,16 +44,16 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Departament Benestar Social i família** | Títol de família monoparental | Comprovació vigència de títol, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFM][link4] |
 
 ##
-# Documentació integració: Àmbit de l&#39;Administració local
+## Documentació integració: Àmbit de l&#39;Administració local
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació d&#39;integració** |
 | --- | --- | --- | --- |
 | **Ajuntaments o Diputacions i Consells Comarcals** | Padró municipal d&#39;habitants | Comprovació de residència d&#39;un individu a Catalunya (consulta individual/lots), Municipi de residència d&#39;un individu (consulta individual/lots), Comprovació de residència d&#39;un individu a un determinat municipi (consulta individual/lots), Nombre de convivents, Comprovació del nombre de convivents, Dades del titular (consulta individual/lots), Dades dels convivents, Dades del titular (suport IDESCAT), Cerca d&#39;un titular | [Document homologació Padró][link4] |
 
 ##
-# Documentació integració: Àmbit de Col·legis i Entitats Col·laboradores
+## Documentació integració: Àmbit de Col·legis i Entitats Col·laboradores
 
-| **ORGANISME CEDENT** | **SERVEI** | **MODALITAT DE CONSUM** | **DOCUMENTACIÓ D&#39;INTEGRACIÓ** |
+| **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació d&#39;integració** |
 | --- | --- | --- | --- |
 | **DCOC** | Documents visats electrònicament | Verificació document visat electrònicamentDades tècniques | [Document homologació DCOC][link4] |
 | **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre de la Propietat | Nota simple informativaNota de localització | [Document homologació Reg\_Prop][link4] |
