@@ -127,5 +127,5 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [linkDCOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311299/Document.homologacio.DCOC.v1.0.docx?raw=true
 
-[linkREMER](https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311307/Document.homologacio.Registre.Mercantil_v1.0.docx)
-[linkREPRO](https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311308/Document.homologacio.Registre.de.la.propietat_v1.0.docx)
+[linkREMER]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311307/Document.homologacio.Registre.Mercantil_v1.0.docx?raw=true
+[linkREPRO]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311308/Document.homologacio.Registre.de.la.propietat_v1.0.docx?raw=true
