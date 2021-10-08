@@ -47,7 +47,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
 | --- | --- | --- | --- |
-| **Departament Benestar Social i família** | Títol de família nombrosa | Comprovació vigència de títol, Obtenció dades bàsiques, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFN][linkTFNCCAA] |
+| **Departament Benestar Social i família** | Títol de família nombrosa | Comprovació vigència de títol, Obtenció dades bàsiques, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFN][linkTFN] |
 | **Departament Benestar Social i família** | Títol de família nombrosa CCAA | Consulta de títol de família nombrosa CCAA | [Document homologació TFN CCAA][linkTFNCCAA] |
 | **Departament Benestar Social i família** | Títol de família monoparental | Comprovació vigència de títol, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFM][linkTFM] |
 | **Institut Estadística de Catalunya (IDESCAT)** | Padró històric | Històric de residència Històric de convivència | [Document homologació IDESCAT][linkPHistoric] |
@@ -115,8 +115,8 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [linkSOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310793/Document.homologacio.demandants.dOcupacio_v1.0.docx?raw=true
 
-[linkDiscapacitats]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310795/Document.homologacio.Discapacitats.CCAA_v1.0.docx?raw=true
-[linkDiscapacitatsCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310796/Document.homologacio.Discapacitats_v1.0.docx?raw=true
+[linkDiscapacitats]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310796/Document.homologacio.Discapacitats_v1.0.docx?raw=true
+[linkDiscapacitatsCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310795/Document.homologacio.Discapacitats.CCAA_v1.0.docx?raw=true
 
 [linkATC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311069/Document.homologacio.Agencia.Tributaria.Catalana.ATC_v1.0.docx?raw=true
 
