@@ -47,9 +47,18 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
 | --- | --- | --- | --- |
-| **Departament Benestar Social i família** | Títol de família nombrosa | Comprovació vigència de títol, Obtenció dades bàsiques, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFN][link7] |
-| **Departament Benestar Social i família** | Títol de família nombrosa CCAA | Consulta de títol de família nombrosa CCAA | [Document homologació TFN CCAA][link8] |
-| **Departament Benestar Social i família** | Títol de família monoparental | Comprovació vigència de títol, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFM][link9] |
+| **Departament Benestar Social i família** | Títol de família nombrosa | Comprovació vigència de títol, Obtenció dades bàsiques, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFN][linkTFNCCAA] |
+| **Departament Benestar Social i família** | Títol de família nombrosa CCAA | Consulta de títol de família nombrosa CCAA | [Document homologació TFN CCAA][linkTFNCCAA] |
+| **Departament Benestar Social i família** | Títol de família monoparental | Comprovació vigència de títol, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFM][linkTFM] |
+| **Institut Estadística de Catalunya (IDESCAT)** | Padró històric | Històric de residència Històric de convivència | [Document homologació IDESCAT][linkPHistoric] |
+| **Servei Ocupació de Catalunya (SOC)** | Demandants d’Ocupació | Certificat de dades personals Certificat d’inscripció com a demandant d’ocupació Certificat últim període d’inscripció i períodes d’inscripció Certificat demandant d’ocupació no ocupat (DONO: consulta individual/lots) | [Document homologació SOC][linkSOC] |
+| **Institut Català d’Assistència i Serveis Socials (ICASS)** | Discapacitats | Dades bàsiques (consulta individual/lots) Dades completes (consulta individual/lots) | [Document homologació Discapacitats][linkDiscapacitats] |
+| **Institut Català d’Assistència i Serveis Socials (ICASS)** | Discapacitats CCAA | Grau discapacitat CCAA | [Document homologació grau discapacitat CCAA][linkDiscapacitatsCCAA] |
+| **Agència Tributària Catalana (ATC)** | Estat de deute amb l’ATC | Estar al corrent d’obligacions tributàries amb l’Administració de la Generalitat | [Document homologació ATC][linkATC] |
+| **Departament Justícia** | Registre d’Entitats Jurídiques | Dades d’inscripció Dades de l’entitat Òrgans de govern | [Document homologació Justícia][linkJusticia] |
+| **CatSalut** | Registre Central d’Assegurats (RCA) | Verificació d’assegurats Consulta de dades d’assegurats | [Document homologació RCA][linkCatSalut] |
+
+
 
 
 ## Documentació integració: Àmbit de l&#39;Administració local
@@ -100,10 +109,26 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 
 
-[link5]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
-[link6]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
 
-[link7]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
+
+
+[linkTFN]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310768/Document.homologacio.-.Titol.de.familia.nombrosa_v1.0.docx?raw=true
+[linkTFM]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310769/Document.homologacio.-.Titol.de.familia.monoparental_v1.0.docx?raw=true
+[linkTFNCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310770/Document.homologacio.-.Titol.de.familia.nombrosa.CCAA_v1.0.docx?raw=true
+
+[linkPHistoric]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310783/Document.homologacio.-.Padro.Historic_v1.0.docx?raw=true
+
+[linkSOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310793/Document.homologacio.demandants.dOcupacio_v1.0.docx?raw=true
+
+[linkDiscapacitats]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310795/Document.homologacio.Discapacitats.CCAA_v1.0.docx?raw=true
+[linkDiscapacitatsCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310796/Document.homologacio.Discapacitats_v1.0.docx?raw=true
+
+[linkATC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311069/Document.homologacio.Agencia.Tributaria.Catalana.ATC_v1.0.docx?raw=true
+
+[linkJusticia]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311088/Document.homologacio.-.Registre.dEntitats.Juridiques_.docx?raw=true
+[linkCatSalut]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311091/Document.homologacio.-.Registre.Central.d.Assegurats_.docx?raw=true
+
+
 
 
 
