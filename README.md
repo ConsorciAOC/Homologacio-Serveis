@@ -73,8 +73,8 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
 | --- | --- | --- | --- |
 | **DCOC** | Documents visats electrònicament | Verificació document visat electrònicamentDades tècniques | [Document homologació DCOC][linkDCOC] |
-| **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre de la Propietat | Nota simple informativaNota de localització | [Document homologació Reg\_Prop][linkREPRO] |
-| **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre Mercantil | Nota mercantil | [Document homologació Reg\_Merc][linkREMER] |
+| **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre de la Propietat | Nota simple informativaNota de localització | [Document homologació Registre_Propietat][linkREPRO] |
+| **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre Mercantil | Nota mercantil | [Document homologació Registre Mercantil][linkREMER] |
 
 
 
