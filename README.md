@@ -65,16 +65,16 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
 | --- | --- | --- | --- |
-| **Ajuntaments o Diputacions i Consells Comarcals** | Padró municipal d&#39;habitants | Comprovació de residència d&#39;un individu a Catalunya (consulta individual/lots), Municipi de residència d&#39;un individu (consulta individual/lots), Comprovació de residència d&#39;un individu a un determinat municipi (consulta individual/lots), Nombre de convivents, Comprovació del nombre de convivents, Dades del titular (consulta individual/lots), Dades dels convivents, Dades del titular (suport IDESCAT), Cerca d&#39;un titular | [Document homologació Padró][link10] |
+| **Ajuntaments o Diputacions i Consells Comarcals** | Padró municipal d&#39;habitants | Comprovació de residència d&#39;un individu a Catalunya (consulta individual/lots), Municipi de residència d&#39;un individu (consulta individual/lots), Comprovació de residència d&#39;un individu a un determinat municipi (consulta individual/lots), Nombre de convivents, Comprovació del nombre de convivents, Dades del titular (consulta individual/lots), Dades dels convivents, Dades del titular (suport IDESCAT), Cerca d&#39;un titular | [Document homologació Padró][linkPadro] |
 
 
 ## Documentació integració: Àmbit de Col·legis i Entitats Col·laboradores
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
 | --- | --- | --- | --- |
-| **DCOC** | Documents visats electrònicament | Verificació document visat electrònicamentDades tècniques | [Document homologació DCOC][link11] |
-| **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre de la Propietat | Nota simple informativaNota de localització | [Document homologació Reg\_Prop][link12] |
-| **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre Mercantil | Nota mercantil | [Document homologació Reg\_Merc][link13] |
+| **DCOC** | Documents visats electrònicament | Verificació document visat electrònicamentDades tècniques | [Document homologació DCOC][linkDCOC] |
+| **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre de la Propietat | Nota simple informativaNota de localització | [Document homologació Reg\_Prop][linkREPRO] |
+| **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre Mercantil | Nota mercantil | [Document homologació Reg\_Merc][linkREMER] |
 
 
 
@@ -107,11 +107,6 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [linkEstrangeria]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310569/Document.homologacio.Estrangeria_v1.0.docx?raw=true
 
-
-
-
-
-
 [linkTFN]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310768/Document.homologacio.-.Titol.de.familia.nombrosa_v1.0.docx?raw=true
 [linkTFM]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310769/Document.homologacio.-.Titol.de.familia.monoparental_v1.0.docx?raw=true
 [linkTFNCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310770/Document.homologacio.-.Titol.de.familia.nombrosa.CCAA_v1.0.docx?raw=true
@@ -128,20 +123,9 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [linkJusticia]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311088/Document.homologacio.-.Registre.dEntitats.Juridiques_.docx?raw=true
 [linkCatSalut]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311091/Document.homologacio.-.Registre.Central.d.Assegurats_.docx?raw=true
 
+[linkPadro]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311290/Document.homologacio.Padro.Municipalv1.0.docx?raw=true
 
+[linkDCOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311299/Document.homologacio.DCOC.v1.0.docx?raw=true
 
-
-
-
-
-[link8]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
-
-[link9]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
-
-[link10]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
-
-[link11]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
-
-[link12]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
-
-[link13]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
+[linkREMER](https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311307/Document.homologacio.Registre.Mercantil_v1.0.docx)
+[linkREPRO](https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311308/Document.homologacio.Registre.de.la.propietat_v1.0.docx)
