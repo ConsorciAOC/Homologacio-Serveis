@@ -78,54 +78,54 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 
 
-[linkAEAT_DADES]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7309846/Document.homologacio.AEAT_DADES_v1.0.docx?raw=true
-[linkAEAT_IRPF]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7309819/Document.homologacio.AEAT_IRPFv1.0.docx?raw=true
-[linkAEAT_IAE]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7309821/Document.homologacio.AEAT_IAE_v1.0.docx?raw=true
+[linkAEAT_DADES]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/A-AEAT/Document%20homologaci%C3%B3%20AEAT_DADES_v1.0.docx?raw=true
+[linkAEAT_IRPF]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/A-AEAT/Document%20homologaci%C3%B3%20AEAT_IRPFv1.0.docx?raw=true
+[linkAEAT_IAE]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/A-AEAT/Document%20homologaci%C3%B3%20AEAT_IAE_v1.0.docx?raw=true
 
-[linkTGSS_DEUTE]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7309997/Document.homologacio.TGSS.-.Deubte.amb.la.Seguretat.Social.i.situacio.d.alta.docx?raw=true
-[linkTGSS_VidaLaboral]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310032/Document.homologacio.TGSS.-.TGSS.Vida.Laboral.docx?raw=true
+[linkTGSS_DEUTE]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/B-TGSS/Document%20homologaci%C3%B3%20TGSS%20-%20Deubte%20amb%20la%20Seguretat%20Social%20i%20situaci%C3%B3%20d'alta.docx?raw=true
+[linkTGSS_VidaLaboral]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/B-TGSS/Document%20homologaci%C3%B3%20TGSS%20-%20TGSS%20Vida%20Laboral.docx?raw=true
 
-[linkDGP_Identitat]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310076/Document.homologacio.DGPv1.0.docx?raw=true
+[linkDGP_Identitat]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/C-DGP/Document%20homologaci%C3%B3%20DGPv1.0.docx?raw=true
 
 
-[linkDGT_RegVehICond]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310193/Document.homologacio.Registre.de.vehicles.i.conductors_v1.0.docx?raw=true
-[linkDGT_RegVehicles]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310194/Document.homologacio.Registre.de.vehicles_v1.0.docx?raw=true
-[linkDGT_DeutorsIVTM]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310192/Document.homologacio.Deutors.impost.municipal.de.vehicles.IVTM._v1.0.docx?raw=true
+[linkDGT_RegVehICond]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/D-DGT/Document%20homologaci%C3%B3%20Registre%20de%20vehicles%20i%20conductors_v1.0.docx?raw=true
+[linkDGT_RegVehicles]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/D-DGT/Document%20homologaci%C3%B3%20Registre%20de%20vehicles_v1.0.docx?raw=true
+[linkDGT_DeutorsIVTM]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/D-DGT/Document%20homologaci%C3%B3%20Deutors%20impost%20municipal%20de%20vehicles%20(IVTM)_v1.0.docx?raw=true
 
-[linkINEM]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310470/Document.homologacio.Prestacions.per.desocupacio_v1.0.docx?raw=true
+[linkINEM]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/E-SEPE/Document%20homologaci%C3%B3%20Prestacions%20per%20desocupaci%C3%B3_v1.0.docx?raw=true
 
-[linkCADASTRE]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310477/Document.homologacio.Cadastre_v1.0.docx?raw=true
+[linkCADASTRE]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/F-CADASTRE/Document%20homologaci%C3%B3%20Cadastre_v1.0.docx?raw=true
 
-[linkMEPSYD]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310493/Document.homologacio.MEPSYD_v1.0.docx?raw=true
+[linkMEPSYD]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/G%20-%20MEPSYD/Document%20homologaci%C3%B3%20MEPSYD_v1.0.docx?raw=true
 
-[linkINSS]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310502/Document.homologacio.Prestacions.socials_v1.0.docx?raw=true
+[linkINSS]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/H%20-%20Prestacions%20socials%20INSS/Document%20homologaci%C3%B3%20Prestacions%20socials_v1.0.docx?raw=true
 
-[linkRegistreCivil]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310510/Document.homologacio.Registre.Civil_v1.0.docx?raw=true
-[linkAntecedentsPenals]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310509/Document.homologacio.Antecedents.Penals_v1.0.docx?raw=true
+[linkRegistreCivil]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/I%20-%20Ministeri%20de%20just%C3%ADcia/Document%20homologaci%C3%B3%20Registre%20Civil_v1.0.docx?raw=true
+[linkAntecedentsPenals]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/I%20-%20Ministeri%20de%20just%C3%ADcia/Document%20homologaci%C3%B3%20Antecedents%20Penals_v1.0.docx?raw=true
 
-[linkDependencia]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310540/Document.homologacio.Dependencia_v1.0.docx?raw=true
+[linkDependencia]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/J%20-%20Instituto%20de%20Mayores%20y%20servicios%20sociales%20(IMSERSO)/Document%20homologaci%C3%B3%20Depend%C3%A8ncia_v1.0.docx?raw=true
 
-[linkEstrangeria]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310569/Document.homologacio.Estrangeria_v1.0.docx?raw=true
+[linkEstrangeria]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/K%20-%20Ministeri%20Interior/Document%20homologaci%C3%B3%20Estrangeria_v1.0.docx?raw=true
 
-[linkTFN]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310768/Document.homologacio.-.Titol.de.familia.nombrosa_v1.0.docx?raw=true
-[linkTFM]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310769/Document.homologacio.-.Titol.de.familia.monoparental_v1.0.docx?raw=true
-[linkTFNCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310770/Document.homologacio.-.Titol.de.familia.nombrosa.CCAA_v1.0.docx?raw=true
+[linkTFN]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Departament%20Benestar%20Social%20i%20familia/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20nombrosa_v1.0.docx?raw=true
+[linkTFM]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Departament%20Benestar%20Social%20i%20familia/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20monoparental_v1.0.docx?raw=true
+[linkTFNCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Departament%20Benestar%20Social%20i%20familia/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20nombrosa%20CCAA_v1.0%20.docx?raw=true
 
-[linkPHistoric]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310783/Document.homologacio.-.Padro.Historic_v1.0.docx?raw=true
+[linkPHistoric]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/B-Institut%20Estad%C3%ADstica%20de%20Catalunya%20(IDESCAT)/Document%20homologaci%C3%B3%20-%20Padro%20Historic_v1.0.docx?raw=true
 
-[linkSOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310793/Document.homologacio.demandants.dOcupacio_v1.0.docx?raw=true
+[linkSOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/C-%20Servei%20ocupaci%C3%B3%20de%20Catalunya%20SOC/Document%20homologaci%C3%B3%20demandants%20dOcupacio_v1.0.docx?raw=true
 
-[linkDiscapacitats]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310796/Document.homologacio.Discapacitats_v1.0.docx?raw=true
-[linkDiscapacitatsCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7310795/Document.homologacio.Discapacitats.CCAA_v1.0.docx?raw=true
+[linkDiscapacitats]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/D-Institut%20Catal%C3%A0%20d'Assist%C3%A8ncia%20i%20Serveis%20Socials%20(ICASS)/Document%20homologaci%C3%B3%20Discapacitats_v1.0.docx?raw=true
+[linkDiscapacitatsCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/D-Institut%20Catal%C3%A0%20d'Assist%C3%A8ncia%20i%20Serveis%20Socials%20(ICASS)/Document%20homologaci%C3%B3%20Discapacitats%20CCAA_v1.0.docx?raw=true
 
-[linkATC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311069/Document.homologacio.Agencia.Tributaria.Catalana.ATC_v1.0.docx?raw=true
+[linkATC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/E%20-Ag%C3%A8ncia%20Tribut%C3%A0ria%20Catalana%20(ATC)/Document%20homologaci%C3%B3%20Ag%C3%A8ncia%20Tribut%C3%A0ria%20Catalana%20ATC_v1.0.docx?raw=true
 
-[linkJusticia]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311088/Document.homologacio.-.Registre.dEntitats.Juridiques_.docx?raw=true
-[linkCatSalut]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311091/Document.homologacio.-.Registre.Central.d.Assegurats_.docx?raw=true
+[linkJusticia]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/F-Departament%20Just%C3%ADcia/Document%20homologaci%C3%B3%20-%20Registre%20dEntitats%20Juridiques_.docx?raw=true
+[linkCatSalut]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/G%20-%20CatSalut/Document%20homologaci%C3%B3%20-%20Registre%20Central%20d'Assegurats_.docx?raw=true
 
-[linkPadro]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311290/Document.homologacio.Padro.Municipalv1.0.docx?raw=true
+[linkPadro]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20l'Administraci%C3%B3%20local/Document%20homologaci%C3%B3%20Padro%20Municipalv1.0.docx?raw=true
 
-[linkDCOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311299/Document.homologacio.DCOC.v1.0.docx?raw=true
+[linkDCOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20collegis%20I%20Entitats%20Collaboradores/A%20-%20DCOC/Document%20homologaci%C3%B3%20DCOC%20v1.0.docx?raw=true
 
-[linkREMER]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311307/Document.homologacio.Registre.Mercantil_v1.0.docx?raw=true
-[linkREPRO]:https://github.com/ConsorciAOC/Homologacio-Serveis/files/7311308/Document.homologacio.Registre.de.la.propietat_v1.0.docx?raw=true
+[linkREMER]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20collegis%20I%20Entitats%20Collaboradores/B%20-%20CORPME/Document%20homologaci%C3%B3%20Registre%20Mercantil_v1.0.docx?raw=true
+[linkREPRO]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20collegis%20I%20Entitats%20Collaboradores/B%20-%20CORPME/Document%20homologaci%C3%B3%20Registre%20de%20la%20propietat_v1.0.docx?raw=true
