@@ -26,7 +26,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació d&#39;integració** |
 | --- | --- | --- | --- |
-| **Agència Estatal Administració Tributària (AEAT)**      | Dades Tributàries | Obligacions tributàries per a contractació pública (consulta individual/lots), Obligacions tributàries per a llicències de transport (consulta individual/lots), Obligacions tributàries sol·licitud ajudes i subvencions (consulta individual/lots), Obligacions tributàries tramitació permisos de residència i treball per a estrangers (consulta individual/lots), Consulta domicili fiscal | [Documentació homologació AEAT][linkAEAT_DADES] |
+| **Agència Estatal Administració Tributària (AEAT)** | Dades Tributàries | Obligacions tributàries per a contractació pública (consulta individual/lots), Obligacions tributàries per a llicències de transport (consulta individual/lots), Obligacions tributàries sol·licitud ajudes i subvencions (consulta individual/lots), Obligacions tributàries tramitació permisos de residència i treball per a estrangers (consulta individual/lots), Consulta domicili fiscal | [Documentació homologació AEAT][linkAEAT_DADES] |
 | **Agència Estatal Administració Tributària (AEAT)** | Renda | Certificat de l&#39;IRPF, Certificat individual de nivell de renda, Certificat de renda per a prestacions |[Documentació homologació IRPF][linkAEAT_IRPF] |
 | **Agència Estatal Administració Tributària (AEAT)** | Impost Activitats Econòmiques (IAE) | Consulta del conjunt d&#39;epígrafs de l&#39;IAE en els quals està matriculat el contribuent a la data actual. | [Documentació homologació IAE][linkAEAT_IAE]   |
 | **Tresoreria General Seguretat Social (TGSS)** | Deute amb la Seguretat Social i situació d’alta | Estar al corrent d’obligacions amb la SS (consulta individual/lots) Alta laboral a data concreta (consulta individual/lots) Acreditació activitat agrària per compte propi | [Documentació homologació deute i situació d'alta][linkTGSS_DEUTE]   || 
@@ -43,6 +43,8 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Ministeri Justícia** | Antecedents penals  | Consulta d’inexistència d’antecedents penals Consulta d’inexistència d’antecedents per delictes sexuals | [Documentació homologació Antecedents penals][linkAntecedentsPenals]   |
 | **Instituto de Mayores y Servicios Sociales (IMSERSO)** | Dependència  | Consulta de nivell i grau de dependència | [Documentació homologació dependència][linkDependencia]   |
 | **Ministeri Interior** | Estrangeria  | Consulta de les dades de residència legal | [Documentació homologació Estrangeria][linkEstrangeria]   |
+
+
 ## Documentació integració: Administració de la Generalitat de Catalunya
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
@@ -57,8 +59,6 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Agència Tributària Catalana (ATC)** | Estat de deute amb l’ATC | Estar al corrent d’obligacions tributàries amb l’Administració de la Generalitat | [Document homologació ATC][linkATC] |
 | **Departament Justícia** | Registre d’Entitats Jurídiques | Dades d’inscripció Dades de l’entitat Òrgans de govern | [Document homologació Justícia][linkJusticia] |
 | **CatSalut** | Registre Central d’Assegurats (RCA) | Verificació d’assegurats Consulta de dades d’assegurats | [Document homologació RCA][linkCatSalut] |
-
-
 
 
 ## Documentació integració: Àmbit de l&#39;Administració local
