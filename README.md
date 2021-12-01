@@ -24,7 +24,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [Document homologació Hèstia][link4]
 
-[link4]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_HestiaV2.docxraw=true
+[link4]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_HestiaV2.docx?raw=true
 
 
 # VO
