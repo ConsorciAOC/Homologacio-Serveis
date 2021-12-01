@@ -18,6 +18,15 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [Document homologació OVER][link3]
 
 [link3]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_OVER_v2.docx?raw=true
+
+
+# HÈSTIA
+
+[Document homologació Hèstia][link3]
+
+[link3]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_HestiaV2.docxraw=true
+
+
 # VO
 
 
