@@ -13,6 +13,12 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [link2]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_PSCP_v2.docx?raw=true
 
+# RPC
+
+[Document homologació RPC][link5]
+
+[link5]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/rpc-homologacio-per-webservice-v2-1.doc
+
 # OVER
 
 [Document homologació OVER][link3]
