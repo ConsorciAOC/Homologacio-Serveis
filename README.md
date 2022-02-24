@@ -17,7 +17,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [Document homologació RPC][link5]
 
-[link5]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/rpc-homologacio-per-webservice-v2-1.doc
+[link5]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/rpc-homologacio-per-webservice-v2-1.doc?raw=true
 
 # OVER
 
