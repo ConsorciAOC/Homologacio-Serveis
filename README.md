@@ -32,6 +32,12 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [link4]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_HestiaV2.docx?raw=true
 
+# ETAULER
+
+[Document homologació eTauler][link6]
+
+[link6]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_eTauler-v1.0.docx
+
 
 # VO
 
