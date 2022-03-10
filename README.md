@@ -70,9 +70,10 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 | **Organisme cedent** | **Servei** | **Modalitat de consum** | **Documentació Homologació** |
 | --- | --- | --- | --- |
-| **Departament Benestar Social i família** | Títol de família nombrosa | Comprovació vigència de títol, Obtenció dades bàsiques, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFN][linkTFN] |
-| **Departament Benestar Social i família** | Títol de família nombrosa CCAA | Consulta de títol de família nombrosa CCAA | [Document homologació TFN CCAA][linkTFNCCAA] |
-| **Departament Benestar Social i família** | Títol de família monoparental | Comprovació vigència de títol, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFM][linkTFM] |
+| **Departament Drets socials** | Títol de família nombrosa | Comprovació vigència de títol, Obtenció dades bàsiques, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFN][linkTFN] |
+| **Departament Drets socials** | Títol de família nombrosa CCAA | Consulta de títol de família nombrosa CCAA | [Document homologació TFN CCAA][linkTFNCCAA] |
+| **Departament Drets socials** | Títol de família monoparental | Comprovació vigència de títol, Obtenció dades completes d&#39;un títol (consulta individual/lots), Obtenció dades completes i nº discapacitats (consulta individual/lots) | [Document homologació TFM][linkTFM] |
+| **Departament Drets socials** | Renda Garantida Ciutadana | Consulta situació de les prestacions RGC d’un ciutadà, Consulta de dades històriques de les prestacions RGC d’un ciutadà.  | [Document homologació RGC][linkRGC] |
 | **Institut Estadística de Catalunya (IDESCAT)** | Padró històric | Històric de residència Històric de convivència | [Document homologació IDESCAT][linkPHistoric] |
 | **Servei Ocupació de Catalunya (SOC)** | Demandants d’Ocupació | Certificat de dades personals Certificat d’inscripció com a demandant d’ocupació Certificat últim període d’inscripció i períodes d’inscripció Certificat demandant d’ocupació no ocupat (DONO: consulta individual/lots) | [Document homologació SOC][linkSOC] |
 | **Institut Català d’Assistència i Serveis Socials (ICASS)** | Discapacitats | Dades bàsiques (consulta individual/lots) Dades completes (consulta individual/lots) | [Document homologació Discapacitats][linkDiscapacitats] |
@@ -98,7 +99,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Col·legi Oficial Registradors de la Propietat i Mercantil (CORPME)** | Registre Mercantil | Nota mercantil | [Document homologació Registre Mercantil][linkREMER] |
 
 
-
+[linkRGC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Drets%20socials/Document%20homologaci%C3%B3%20-%20Renda%20Garantida%20Ciutadana_v1.0.docx?raw=true
 [linkAEAT_DADES]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/A-AEAT/Document%20homologaci%C3%B3%20AEAT_DADES_v1.0.docx?raw=true
 [linkAEAT_IRPF]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/A-AEAT/Document%20homologaci%C3%B3%20AEAT_IRPFv1.0.docx?raw=true
 [linkAEAT_IAE]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/A-AEAT/Document%20homologaci%C3%B3%20AEAT_IAE_v1.0.docx?raw=true
