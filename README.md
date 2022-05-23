@@ -85,6 +85,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Institut Català d’Assistència i Serveis Socials (ICASS)** | Discapacitats CCAA | Grau discapacitat CCAA | [Document homologació grau discapacitat CCAA][linkDiscapacitatsCCAA] |
 | **Agència Tributària Catalana (ATC)** | Estat de deute amb l’ATC | Estar al corrent d’obligacions tributàries amb l’Administració de la Generalitat | [Document homologació ATC][linkATC] |
 | **Departament Justícia** | Registre d’Entitats Jurídiques | Dades d’inscripció Dades de l’entitat Òrgans de govern | [Document homologació Justícia][linkJusticia] |
+| **Departament Justícia** | Registre de Parelles Estables | Consulta de situació d’un titular al Registre de Parelles Estables en un moment donat i Consulta de situació d'un titular al Registre de Parelles Estables en un moment donat a partir d'un o dels dos membres de la parella. | [Document homologació Justícia][linkParellesEstables] |
 | **CatSalut** | Registre Central d’Assegurats (RCA) | Verificació d’assegurats Consulta de dades d’assegurats | [Document homologació RCA][linkCatSalut] |
 
 
@@ -148,6 +149,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [linkATC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/E%20-Ag%C3%A8ncia%20Tribut%C3%A0ria%20Catalana%20(ATC)/Document%20homologaci%C3%B3%20Ag%C3%A8ncia%20Tribut%C3%A0ria%20Catalana%20ATC_v1.0.docx?raw=true
 
 [linkJusticia]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/F-Departament%20Just%C3%ADcia/Document%20homologaci%C3%B3%20-%20Registre%20dEntitats%20Juridiques_.docx?raw=true
+[linkParellesEstables]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/F-Departament%20Just%C3%ADcia/Document%20homologaci%C3%B3%20-%20Registre%20de%20Parelles%20Estables.docx?raw=true
 [linkCatSalut]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/G%20-%20CatSalut/Document%20homologaci%C3%B3%20-%20Registre%20Central%20d'Assegurats_.docx?raw=true
 
 [linkPadro]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20l'Administraci%C3%B3%20local/Document%20homologaci%C3%B3%20Padro%20Municipalv1.0.docx?raw=true
@@ -156,3 +158,6 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [linkREMER]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20collegis%20I%20Entitats%20Collaboradores/B%20-%20CORPME/Document%20homologaci%C3%B3%20Registre%20Mercantil_v1.0.docx?raw=true
 [linkREPRO]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20collegis%20I%20Entitats%20Collaboradores/B%20-%20CORPME/Document%20homologaci%C3%B3%20Registre%20de%20la%20propietat_v1.0.docx?raw=true
+
+
+https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/F-Departament%20Just%C3%ADcia/Document%20homologaci%C3%B3%20-%20Registre%20de%20Parelles%20Estables.docx
