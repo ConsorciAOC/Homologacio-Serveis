@@ -13,6 +13,8 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [link2]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_PSCP_v2.docx?raw=true
 
+[Document homologació Sobre Digital][linkSOBREDIGITAL]
+
 # RPC
 
 [Document homologació RPC][link5]
@@ -159,3 +161,5 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [linkREMER]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20collegis%20I%20Entitats%20Collaboradores/B%20-%20CORPME/Document%20homologaci%C3%B3%20Registre%20Mercantil_v1.0.docx?raw=true
 [linkREPRO]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20collegis%20I%20Entitats%20Collaboradores/B%20-%20CORPME/Document%20homologaci%C3%B3%20Registre%20de%20la%20propietat_v1.0.docx?raw=true
 
+
+[linkSOBREDIGITAL]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Jocs%20de%20proves%20Webservices%20retorn%20d'ofertes%20de%20Sobre%20Digital.docx
