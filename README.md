@@ -166,6 +166,6 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [linkSOBREDIGITAL]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Jocs%20de%20proves%20Webservices%20retorn%20d'ofertes%20de%20Sobre%20Digital.docx
 
-[linkIGAE]:https://github.com/ConsorciAOC/Homologacio-Serveis/tree/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/L%20-%20IGAE
+[linkIGAE]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/L%20-%20IGAE/Document%20homologaci%C3%B3%20IGAE%20-%20Base%20de%20Dades%20Nacional%20de%20Subvencions_v1.0.docx?raw=true
 
-[linkNotaris]:https://github.com/ConsorciAOC/Homologacio-Serveis/tree/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/M%20-%20Consejo%20General%20del%20Notariado%20via%20MINHAP
+[linkNotaris]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/M%20-%20Consejo%20General%20del%20Notariado%20via%20MINHAP/Document%20homologaci%C3%B3%20Consejo%20General%20del%20Notariado%20via%20MINHAP_v1.0.docx?raw=true
