@@ -71,6 +71,8 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Ministeri Justícia** | Antecedents penals  | Consulta d’inexistència d’antecedents penals Consulta d’inexistència d’antecedents per delictes sexuals | [Documentació homologació Antecedents penals][linkAntecedentsPenals]   |
 | **Instituto de Mayores y Servicios Sociales (IMSERSO)** | Dependència  | Consulta de nivell i grau de dependència | [Documentació homologació dependència][linkDependencia]   |
 | **Ministeri Interior** | Estrangeria  | Consulta de les dades de residència legal | [Documentació homologació Estrangeria][linkEstrangeria]   |
+| **Intervención General de la Administración del Estado (IGAE)** | IGAE  | Intervención General de la Administración del Estado | [Document homologació IGAE - Base de Dades Nacional de Subvencions][linkIGAE]   |
+| **Consejo General del Notariado via MINHAP** | PODERS NOTARIALS  | Poders Notarials | [Document homologació Consejo General del Notariado via MINHAP][linkNotaris]   |
 
 
 ## Documentació integració: Administració de la Generalitat de Catalunya
@@ -163,3 +165,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 
 [linkSOBREDIGITAL]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Jocs%20de%20proves%20Webservices%20retorn%20d'ofertes%20de%20Sobre%20Digital.docx
+
+[linkIGAE]:https://github.com/ConsorciAOC/Homologacio-Serveis/tree/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/L%20-%20IGAE
+
+[linkNotaris]:https://github.com/ConsorciAOC/Homologacio-Serveis/tree/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/M%20-%20Consejo%20General%20del%20Notariado%20via%20MINHAP
