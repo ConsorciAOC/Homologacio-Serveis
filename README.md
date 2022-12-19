@@ -141,9 +141,9 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [linkEstrangeria]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/K%20-%20Ministeri%20Interior/Document%20homologaci%C3%B3%20Estrangeria_v1.0.docx?raw=true
 
-[linkTFN]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Departament%20Benestar%20Social%20i%20familia/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20nombrosa_v1.0.docx?raw=true
-[linkTFM]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Departament%20Benestar%20Social%20i%20familia/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20monoparental_v1.0.docx?raw=true
-[linkTFNCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Departament%20Benestar%20Social%20i%20familia/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20nombrosa%20CCAA_v1.0%20.docx?raw=true
+[linkTFN]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Drets%20socials/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20nombrosa_v1.0.docx?raw=true
+[linkTFM]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Drets%20socials/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20monoparental_v1.0.docx?raw=true
+[linkTFNCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/A-Drets%20socials/Document%20homologaci%C3%B3%20-%20Titol%20de%20familia%20nombrosa%20CCAA_v1.0%20.docx?raw=true
 
 [linkPHistoric]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/B-Institut%20Estad%C3%ADstica%20de%20Catalunya%20(IDESCAT)/Document%20homologaci%C3%B3%20-%20Padro%20Historic_v1.0.docx?raw=true
 
