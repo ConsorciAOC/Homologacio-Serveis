@@ -38,13 +38,13 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [Document homologació eTauler][link6]
 
-[link6]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_eTauler-v1.0.docx
+[link6]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_eTauler-v1.0.docx?raw=true
 
 # REPRESENTA
 
 [Document homologació Representa][link7]
 
-[link7]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_REPRESENTA-v1.0.docx
+[link7]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_REPRESENTA-v1.0.docx?raw=true
 
 # VO
 
@@ -166,7 +166,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [linkREPRO]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20de%20collegis%20I%20Entitats%20Collaboradores/B%20-%20CORPME/Document%20homologaci%C3%B3%20Registre%20de%20la%20propietat_v1.0.docx?raw=true
 
 
-[linkSOBREDIGITAL]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Jocs%20de%20proves%20Webservices%20retorn%20d'ofertes%20de%20Sobre%20Digital.docx
+[linkSOBREDIGITAL]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Jocs%20de%20proves%20Webservices%20retorn%20d'ofertes%20de%20Sobre%20Digital.docx?raw=true
 
 [linkIGAE]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/L%20-%20IGAE/Document%20homologaci%C3%B3%20IGAE%20-%20Base%20de%20Dades%20Nacional%20de%20Subvencions_v1.0.docx?raw=true
 
