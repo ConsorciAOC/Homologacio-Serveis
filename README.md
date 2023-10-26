@@ -17,7 +17,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [Document homologació PSCP][link2]
 
-[link2]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_PSCP_v2.docx?raw=true
+[link2]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/ECO-Licita-PSCP-Homologacio_IntegracioREST-v1.0.0.docx?raw=true
 
 [Document homologació Sobre Digital][linkSOBREDIGITAL]
 
