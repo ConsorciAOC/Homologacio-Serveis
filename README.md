@@ -19,7 +19,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [link2]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/ECO-Licita-PSCP-Homologacio_IntegracioREST-v1.0.0.docx?raw=true
 
-[Document homologació Sobre Digital][linkSOBREDIGITAL]
+[Document homologació Sobre Digital - eLICITA][linkSOBREDIGITAL]
 
 # RPC
 
