@@ -100,6 +100,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Departament Justícia** | Registre de Parelles Estables | Consulta de situació d’un titular al Registre de Parelles Estables en un moment donat i Consulta de situació d'un titular al Registre de Parelles Estables en un moment donat a partir d'un o dels dos membres de la parella. | [Document homologació RPE][linkParellesEstables] |
 | **CatSalut** | Registre Central d’Assegurats (RCA) | Verificació d’assegurats Consulta de dades d’assegurats | [Document homologació RCA][linkCatSalut] |
 | **Servei Català de Trànsit** | Servei Català de Trànsit (SCT_DENUNCIES) | Servei Català de Trànsit (SCT_DENUNCIES) | [Document homologació SCT][linkSCT] |
+| **ACTIC** | ACTIC | ACTIC | [Document homologació ACTIC][linkACTIC] |
 
 
 ## Documentació integració: Àmbit de l&#39;Administració local
@@ -182,3 +183,5 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [linkNotaris]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/M%20-%20Consejo%20General%20del%20Notariado%20via%20MINHAP/Document%20homologaci%C3%B3%20Consejo%20General%20del%20Notariado%20via%20MINHAP_v1.0.docx?raw=true
 
 [linkSCT]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/H-SCT_DENUNCIES/Document%20homologaci%C3%B3%20-%20SCT_DENUNCIES.docx?raw=true
+
+[linkACTIC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/I-ACTIC/Document%20homologaci%C3%B3%20-%20ACTIC.docx?raw=true
