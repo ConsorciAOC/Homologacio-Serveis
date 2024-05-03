@@ -157,7 +157,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [linkPHistoric]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/B-Institut%20Estad%C3%ADstica%20de%20Catalunya%20(IDESCAT)/Document%20homologaci%C3%B3%20-%20Padro%20Historic_v1.0.docx?raw=true
 
-[linkSOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/C-%20Servei%20ocupaci%C3%B3%20de%20Catalunya%20SOC/Document%20homologaci%C3%B3%20demandants%20dOcupacio_v1.0.docx?raw=true
+[linkSOC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/C-Servei%20ocupaci%C3%B3%20de%20Catalunya%20SOC/Document%20homologaci%C3%B3%20demandants%20dOcupacio_v1.0.docx?raw=true
 
 [linkDiscapacitats]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/D-Institut%20Catal%C3%A0%20d'Assist%C3%A8ncia%20i%20Serveis%20Socials%20(ICASS)/Document%20homologaci%C3%B3%20Discapacitats_v1.0.docx?raw=true
 [linkDiscapacitatsCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/D-Institut%20Catal%C3%A0%20d'Assist%C3%A8ncia%20i%20Serveis%20Socials%20(ICASS)/Document%20homologaci%C3%B3%20Discapacitats%20CCAA_v1.0.docx?raw=true
