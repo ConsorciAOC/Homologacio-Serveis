@@ -7,12 +7,6 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [link1]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_NT-v5.0.docx?raw=true
 
-# eFACT
-
-[Document homologació eFACT][link8]
-
-[link8]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/eFACT/Homologaci%C3%B3_eFACT.xls?raw=true
-
 # PSCP
 
 [Document homologació PSCP][link2]
