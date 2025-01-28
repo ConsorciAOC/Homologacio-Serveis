@@ -38,7 +38,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [Document homologació eTauler][link6]
 
-[link6]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_eTauler-v1.0.docx?raw=true
+[link6]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Document-homologacio_eTauler-v1.1.docx?raw=true
 
 # REPRESENTA
 
