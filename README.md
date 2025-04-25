@@ -75,6 +75,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Ministeri Interior** | Estrangeria  | Consulta de les dades de residència legal | [Documentació homologació Estrangeria][linkEstrangeria]   |
 | **Intervención General de la Administración del Estado (IGAE)** | IGAE  | Intervención General de la Administración del Estado | [Document homologació IGAE - Base de Dades Nacional de Subvencions][linkIGAE]   |
 | **Consejo General del Notariado via MINHAP** | PODERS NOTARIALS  | Poders Notarials | [Document homologació Consejo General del Notariado via MINHAP][linkNotaris]   |
+| **GRAU_DISCAPACITAT_CCAA** | GRAU_DISCAPACITAT_CCAA  | Grau Discapacitat CCAA | [Document homologació CCAA_Discapacidad888-2022_v1.0][linkGrauDiscCCAA]   |
 
 
 ## Documentació integració: Administració de la Generalitat de Catalunya
@@ -179,3 +180,5 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [linkSCT]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/H-SCT_DENUNCIES/Document%20homologaci%C3%B3%20-%20SCT_DENUNCIES.docx?raw=true
 
 [linkACTIC]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/I-ACTIC/Document%20homologaci%C3%B3%20-%20ACTIC.docx?raw=true
+
+[linkGrauDiscCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/N%20-%20CCAA_Discapacidad888-2022/Document%20homologaci%C3%B3%20CCAA_Discapacidad888-2022_v1.0.docx?raw=true
