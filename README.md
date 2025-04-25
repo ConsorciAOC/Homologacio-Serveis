@@ -68,7 +68,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 | **Servei Públic Ocupació Estatal (SEPE)** | Prestacions per desocupació  | Prestacions percebudes per desocupació Imports prestacions actuals Imports prestacions per períodes | [Documentació homologació Prestacions per desocupació][linkINEM]   |
 | **Direcció General Cadastre** | Cadastre  | Dades cadastrals Certificat titularitat Descriptiva i gràfica Codi segur de verificació | [Documentació homologació Cadastre][linkCADASTRE]   |
 | **Ministeri Educació** | Titulacions  | Titulacions universitàries Titulacions no universitàries | [Documentació homologació Titulacions][linkMEPSYD]   |
-| **Institut Nacional Seguretat Social (INSS)** | Prestacions socials públiques  | Prestacions percebudes Consulta d’històric de prestacions | [Documentació homologació prestacions socials públiques][linkINSS]   |
+| **Institut Nacional Seguretat Social (INSS TSD)** | Prestacions socials públiques  | Prestacions percebudes Consulta d’històric de prestacions | [Documentació homologació prestacions socials públiques][linkINSS]   |
 | **Ministeri Justícia** | Registre Civil  | Consulta naixement Consulta matrimoni Consulta defunció | [Documentació homologació Registre Civil][linkRegistreCivil]   |
 | **Ministeri Justícia** | Antecedents penals  | Consulta d’inexistència d’antecedents penals Consulta d’inexistència d’antecedents per delictes sexuals | [Documentació homologació Antecedents penals][linkAntecedentsPenals]   |
 | **Instituto de Mayores y Servicios Sociales (IMSERSO)** | Dependència  | Consulta de nivell i grau de dependència | [Documentació homologació dependència][linkDependencia]   |
@@ -137,7 +137,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 
 [linkMEPSYD]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/G%20-%20MEPSYD/Document%20homologaci%C3%B3%20MEPSYD_v1.0.docx?raw=true
 
-[linkINSS]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/H%20-%20Prestacions%20socials%20INSS/Document%20homologaci%C3%B3%20Prestacions%20socials_v1.0.docx?raw=true
+[linkINSS]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/H%20-%20Prestacions%20socials%20INSS%20TSD/Document%20homologaci%C3%B3%20Prestacions%20socials_v1.0.docx?raw=true
 
 [linkRegistreCivil]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/I%20-%20Ministeri%20de%20just%C3%ADcia/Document%20homologaci%C3%B3%20Registre%20Civil_v1.0.docx?raw=true
 [linkAntecedentsPenals]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/I%20-%20Ministeri%20de%20just%C3%ADcia/Document%20homologaci%C3%B3%20Antecedents%20Penals_v1.0.docx?raw=true
