@@ -186,4 +186,4 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [linkGrauDiscCCAA]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/N%20-%20CCAA_Discapacidad888-2022/Document%20homologaci%C3%B3%20CCAA_Discapacidad888-2022_v1.0.docx?raw=true
 
 [linkBDSEU]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/J-BDSEU/Document%20homologaci%C3%B3%20-%20BDSEU.docx?raw=true
-[linkCERCAT]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/J-BDSEU/Document%20homologaci%C3%B3%20-%20BDSEU.docx?raw=true
+[linkCERCAT]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/Administraci%C3%B3%20de%20la%20Generalitat%20de%20Catalunya/H-CERTIFICAT_CATALA/Document%20homologaci%C3%B3%20-%20CERT_CAT.docx?raw=true
