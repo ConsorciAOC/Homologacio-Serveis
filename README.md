@@ -130,7 +130,7 @@ Documents d'homologació dels diferents serveis del Consorci AOC per a les integ
 [linkDGP_Residencia_Legal]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/C-DGP/Document%20homologaci%C3%B3%20DGP_RESIDENCIA_LEGAL_ESTRANGERSv1.0.docx?raw=true
 
 [linkDGT_RegVehICond]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/D-DGT/Document%20homologaci%C3%B3%20Registre%20de%20vehicles%20i%20conductors_v1.0.docx?raw=true
-[linkDGT_RegVehicles]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/D-DGT/Document%20homologaci%C3%B3%20Registre%20de%20vehicles_v1.0.docx?raw=true
+
 [linkDGT_DeutorsIVTM]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/D-DGT/Document%20homologaci%C3%B3%20Deutors%20impost%20municipal%20de%20vehicles%20(IVTM)_v1.0.docx?raw=true
 
 [linkINEM]:https://github.com/ConsorciAOC/Homologacio-Serveis/blob/main/Documents/%C3%80mbit%20Administraci%C3%B3%20General%20de%20l'Estat(AGE)/E-SEPE/Document%20homologaci%C3%B3%20Prestacions%20per%20desocupaci%C3%B3_v1.0.docx?raw=true
